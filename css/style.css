@@ -1,0 +1,20 @@
+
+
+
+.blog-header{
+    margin-top: 7rem;
+    max-width: 700px;
+    align-items: center;
+  }
+  .card{
+    min-width: 220px;
+  }
+  
+  .card-text{
+    padding-top: 1rem;
+  }
+  
+  .card-block{
+    min-height: 220px;
+  }
+  
